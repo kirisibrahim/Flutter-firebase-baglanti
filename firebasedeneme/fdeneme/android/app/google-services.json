@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "663321819741",
+    "firebase_url": "https://deneme-f38a9-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "deneme-f38a9",
+    "storage_bucket": "deneme-f38a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663321819741:android:08a5b6c9ad309b8f4aabb4",
+        "android_client_info": {
+          "package_name": "com.example.fdeneme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663321819741-46fcckkepg4tu8esmi73pu0bio469grk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNyJVXbE5kSBFyJM-M_yGVKWPB-BJO1io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663321819741-46fcckkepg4tu8esmi73pu0bio469grk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
